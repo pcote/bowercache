@@ -1,0 +1,26 @@
+{
+  "name": "bowercache",
+  "authors": [
+    "pcote"
+  ],
+  "description": "Cache of js libs to keep generated in case Internet dies on me and I have no CDN available.",
+  "main": "",
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.7",
+    "jquery": "^3.1.1",
+    "jquery-ui": "^1.12.1",
+    "handlebars": "^4.0.5",
+    "svg": "^1.0.1",
+    "angular": "^1.6.1",
+    "underscore": "^1.8.3"
+  }
+}
